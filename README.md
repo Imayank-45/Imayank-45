@@ -48,11 +48,11 @@
 </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Imayank-45&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Imayank-45's GitHub Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Imayank-45&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&hide_border=true" alt="Imayank-45's GitHub Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imayank-45&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imayank-45&locale=en&theme=shades-of-purple&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Imayank-45&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Imayank-45&theme=shades-of-purple&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Imayank-45&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
