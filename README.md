@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Imayank-45/Imayank-45/blob/main/00.png" alt="Profile Banner" width="100%">
+  <img src="https://github.com/Imayank-45/Imayank-45/blob/main/background.jpeg" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mayank Mishra!</h1>
